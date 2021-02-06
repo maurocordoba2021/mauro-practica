@@ -1,0 +1,54 @@
+.titulo, .titulo2{
+    color:aqua;
+    font-size: 60px;
+}
+#texto{
+    width: 50%;
+    color:brown
+}
+.m1{
+    width: 100px;
+    background-color: bisque;
+}
+.video{
+    width:100%;
+    text-align: center;
+    text-align: ;
+} 
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+
+} 
+.list{
+    list-style-type:none;
+}
+.list li{
+    display: inline;
+}
+.navlist{
+    list-style-type: none;
+}
+.navlist li{
+    display: inline;
+}
+.contactotitulo{
+    width: 100%;
+    text-align: center;
+    color: darkblue;
+}
+.navlist{position: fixed;
+
+}
+.navlist{z-index: 100;
+    background:silver;
+    font-size: 60px;
+    width: 100%;
+    
+}
+body{
+    background-image:url("https://media.istockphoto.com/photos/illuminati-background-picture-id1270915182");
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+}
